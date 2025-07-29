@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bharath</h1>
+<h1 align="center">Hi 👋, I'm Bharath </h1>
 <h3 align="center">A passionate MEAN Stack Developer | Web3 & Blockchain Innovator</h3>
 
 - 🔭 I’m currently working on **MEAN Stack Developer**

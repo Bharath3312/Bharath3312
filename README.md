@@ -1,9 +1,3 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=TheDevAthlete&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full+Stack+Developer+%7C+Java+%2B+Spring+Boot+%2B+Angular+%7C+AWS+Enthusiast&descAlignY=62&descSize=16" width="100%"/> -->
-
-
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bharath%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MEAN%20Stack%20Developer%20%E2%80%94%20FinTech%20%26%20Trading%20Systems&descAlignY=62&descSize=16" width="100%"/>  -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bharath+A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MEAN+Stack+Developer+|+FinTech+and+Trading+Systems&descAlignY=62&descSize=16" />
 
 <div align="center">
@@ -13,6 +7,20 @@
 </div>
 
 <br/>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thedevathlete)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thedevathlete@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedevathlete)
+[![Profile Views](https://komarev.com/ghpvc/?username=thedevathlete&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/thedevathlete)
+
+</div>
+
+---
+
 
 <div align="center">
   <a href="https://komarev.com/ghpvc/?username=Bharath3312&label=Profile%20Views&color=70a5fd&style=flat-square">

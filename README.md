@@ -9,32 +9,14 @@
 <br/>
 
 ---
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thedevathlete)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thedevathlete@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thedevathlete)
-[![Profile Views](https://komarev.com/ghpvc/?username=thedevathlete&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/thedevathlete)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsbharath)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharath04.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://bharath07portfolio.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bharath3312)
+[![Profile Views](https://komarev.com/ghpvc/?username=Bharath3312&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Bharath3312)
 
-</div>
-
----
-
-
-<div align="center">
-  <a href="https://komarev.com/ghpvc/?username=Bharath3312&label=Profile%20Views&color=70a5fd&style=flat-square">
-    <img src="https://komarev.com/ghpvc/?username=Bharath3312&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views" />
-  </a>
-  <a href="https://linkedin.com/in/itsbharath">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bharath04.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://bharath07portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
 </div>
 
 ---

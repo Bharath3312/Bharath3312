@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bharath&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mean+Stack+Developer+%7C+FinTech+%2B+ Trading System&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=TheDevAthlete&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full+Stack+Developer+%7C+Java+%2B+Spring+Boot+%2B+Angular+%7C+AWS+Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bharath%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MEAN%20Stack%20Developer%20%E2%80%94%20FinTech%20%26%20Trading%20Systems&descAlignY=62&descSize=16" width="100%"/> 
